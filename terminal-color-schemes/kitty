@@ -14,8 +14,8 @@ color9 #ff7f7f
 
 #: red
 
-color2  #7171ff
-color10 #7f7fff
+color2  #ff7f7f
+color10 #c3699e
 
 #: green
 
@@ -29,8 +29,8 @@ color11 #ff9d9d
 
 #: blue
 
-# color5  #cb1ed1
-# color13 #fd28ff
+# color5  #9164bf
+# color13 #7f7fff
 
 #: magenta
 
@@ -67,6 +67,3 @@ color11 #ff9d9d
 # mark3_background #f274bc
 
 #: Color for marks of type 3 (violet)
-
-# Cursor
-cursor      #ff7f7f
