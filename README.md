@@ -5,3 +5,4 @@
 
 ![repository-open-graph-template](https://raw.githubusercontent.com/killajoe/EndeavourOS-Branding/refs/heads/main/EndeavourOS-logo-official/endeavourosos-logo-horizontal_with_safespace_and_background.svg)
 
+![colorscheme](https://raw.githubusercontent.com/killajoe/EndeavourOS-Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png)
