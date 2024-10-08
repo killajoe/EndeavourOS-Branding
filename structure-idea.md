@@ -1,94 +1,95 @@
-Must have digital brand elements suitable for EOS : Logo, Color Pallete
+# Must have digital brand elements suitable for EOS: 
+* Logo, Color Pallete
 
-	Additionally colorschemes, uniform eos branded themes, unique Icons for the use in de/wms, fonts(a specific font) etc.
+Additionally colorschemes, uniform eos branded themes, unique Icons for the use in de/wms, fonts(a specific font) etc.
  
-	however as EOS goal is to provide bare minimum/default arch distro to its user so all of this can be ignored
+however as EOS goal is to provide bare minimum/default arch distro to its user so all of this can be ignored
  
-Example READ
+Example READ:
 
-https://elementary.io/brand
+* https://elementary.io/brand
 
-https://github.com/elementary/brand/
+* https://github.com/elementary/brand/
 
-GIT Directory
+# GIT Directory
 
-1.0	brand/eos-assets	
+1.0	brand/eos-assets:	
 
-  	1.1		logo
+1.1		logo
    
             	official
 	     
-                	16x16.ico
+                16x16.ico
 		 
-					XXxXX.png
+		XXxXX.png
      
-					XXxXX.svg
+		XXxXX.svg
      
-					YYxYY.svg
+		YYxYY.svg
      
-					ZZxZZ.svg
+		ZZxZZ.svg
      
-					light_ZZxZZ.svg
+		light_ZZxZZ.svg
      
-					dark_ZZxZZ.svg
+		dark_ZZxZZ.svg
      
-					lighttag_ZZxZZ.svg
+		lighttag_ZZxZZ.svg
      
-					darktag_ZZxZZ.svg
+		darktag_ZZxZZ.svg
      
-					large.(svg/png)
+		large.(svg/png)
      
-                community
+community
 		
-                	XXxXX.png
+                XXxXX.png
 		 
-					XXxXX.svg
+		XXxXX.svg
      
-					YYxYY.svg
+		YYxYY.svg
      
-					ZZxZZ.svg
+		ZZxZZ.svg
      
-					large.(svg/png)
+		large.(svg/png)
                     
-  	1.2		Wallpaper
+  1.2		Wallpaper
    
-            	official
+            			official
 	     
-					wpname1_XXxXX.(jpg/png)
+				wpname1_XXxXX.(jpg/png)
      
-					wpname2_XXxXX.(jpg/png)
+				wpname2_XXxXX.(jpg/png)
      
-                community
+community
 		
                 	wpname1_XXxXX.(jpg/png)
 		 
-					wpname2_XXxXX.(jpg/png)
+			wpname2_XXxXX.(jpg/png)
      
-                    wpname3_XXxXX.(jpg/png)
+                        wpname3_XXxXX.(jpg/png)
 		    
-                Mobile
+Mobile
 		
 
-	1.3		custom-icons
- 
+1.3		custom-icons
+
 					XXxXX.svg
      
-                    XXxXX.svg
+                                       XXxXX.svg
 		    
-                    XXxXX.svg
+                    		       XXxXX.svg
 		    
-                    XXxXX.svg
+                    			XXxXX.svg
 		    
-	1.4		color-pallette
+1.4		color-pallette
  
 				eos_colors.md
     
-    1.5		LICENSE/Code_of_Conduct.md
+1.5		LICENSE/Code_of_Conduct.md
     
 
 2.0	eos-themes
 
-		eos-terminal-colorschemes
+eos-terminal-colorschemes
   
 			xxxx.xxx
    
