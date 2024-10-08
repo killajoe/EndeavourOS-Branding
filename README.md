@@ -3,5 +3,5 @@
 
 # WIP ! work in progress my friend just started
 
-![repository-open-graph-template](https://github.com/user-attachments/assets/d8e3ab97-eee2-4728-91ab-a9972db8f6c5)
+![repository-open-graph-template](https://raw.githubusercontent.com/killajoe/EndeavourOS-Branding/refs/heads/main/EndeavourOS-logo-official/endeavour-logo-horizontal-with-safespace%20and%20backgroundv2.svg)
 
