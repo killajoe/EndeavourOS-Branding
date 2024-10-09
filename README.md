@@ -7,5 +7,4 @@
 
 ![colorscheme](https://raw.githubusercontent.com/killajoe/EndeavourOS-Branding/refs/heads/main/color-schemes/color-scheme-hex-preview.png)
 
-<div style="background-color:#7f3fbf">
-Div content here</div>
+<div style="background-color:#7f3fbf">#7f3fbf</div>
