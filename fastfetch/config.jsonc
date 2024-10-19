@@ -8,17 +8,6 @@
     },
     "modules": [
         {
-            "type":   "users",
-            "key": "    User",
-            "keyColor": "cyan"
-        },
-        {
-            "type":   "host",
-            "key": "    Host",
-            "keyColor": "yellow"
-
-        },
-        {
             "type": "os",
             "key": "   OS",
             "keyColor": "red"
@@ -63,7 +52,12 @@
             "key": "   CPU",
             "keyColor": "blue"
         },
-      
+        {
+            "type":   "host",
+            "key": "    Host",
+            "keyColor": "yellow"
+
+        },
         {
             "type": "gpu",
             "format": "{3}",
