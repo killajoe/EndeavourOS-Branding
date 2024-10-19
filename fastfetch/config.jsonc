@@ -8,8 +8,15 @@
     },
     "modules": [
         {
-            "type": "custom",
-            "format": "\u001b[36m  🅴🅽🅳🅴🅰🆅🅾🆄🆁🄾🅂"
+            "type":   "users",
+            "key": "    User",
+            "keyColor": "cyan"
+        },
+        {
+            "type":   "host",
+            "key": "    Host",
+            "keyColor": "yellow"
+
         },
         {
             "type": "os",
