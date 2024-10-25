@@ -9,7 +9,9 @@
 
 # Used Font is Ailerons Typeface
 
-![ailarons_cut](https://github.com/user-attachments/assets/901fe4b0-462a-4676-8d67-2f278c72be85)
+![ailarons_cut](https://github.com/user-attachments/assets/8f12ccdc-d566-4f2b-aa22-9fef0098d308)
+
+
 credit: ![Ailerons-Typeface](https://www.behance.net/gallery/25541553/Ailerons-Typeface/modules/943293657?isa0=1)
 
 
